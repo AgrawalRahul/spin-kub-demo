@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "docker-spinnaker",
+  "private_key_id": "92a970a1cf5795a72c8ec3c654a2a08bd36e980a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCcvjJFmL2naEIz\n5FNAEHC0Fo5+LgbVyxFQTQjQd5rzygBUxamj1G6N2nlMl+317XDWX2cCvZIqxl2G\nKo/r5EFcBpMiuhAsrp2cj8TfpveLhI4AN3dRPzbV9cUTkzgH8gMvbtsjONMVPTzx\nFz+WmAcydEYl0LCc1EUlVTyyTeBgpdvMU3IUuopD1oSfrOsTVmHBky0EIIV2r2Wr\nQ7YB4GaowCgQ2Sc8hAJ33qvNARP7SmAUhA1lWcoSkZEwTW2nvYSqqD3tCNQn/r+N\nAtp4nKxVJVVLtMMDiMpZ1RonJORKIitOU3g/xIF3rWF0A+ukH8OW1FVVgt6dw8zO\nt0y+ACfpAgMBAAECggEABYVrlukA8TcqcdJ+njiWB7ntrgMoCXrcMsRr5Y/4/NJm\nPZYy2gr/E+8Yq7qETs/c1ChLJB0SW4BeRf4U0L3bEYdHwobkT/acpamoySoD+T2j\nlN1fThTYdSPxm7VpWVpMg2y3ul9jjBF6ppFnk4HqavwOhoF53yRZBS4h87Prjevr\nmotfMqDsmkyzjWww6qTjSiymlKuiOQrAwUocGwqdqCQuLv5LCqYFXpwO3fkM+26p\nL/QxS0v20GPGdMVLX9FNSsi7Meebu1KbTGO9KZaSICLDZeCALxtc+CU8N0ww7G4C\nKWcCNSMfkos1law89obEuChZ4JHo3FAcoRhQCOmRMwKBgQDN5inqiIEPXXcmqxZZ\nuEgU6h5QwerjWsC3S35wsEowKKvwNKN4ZMrzyfhC1OSXgT+eroi0s71Dg0CDwCC6\n434DG0j7ZKZHTzHSZ+8DtuYRswz5YM+CJVozZ6wNp3l5lA68N/jg18vc7EM2zsMR\nUrOd8Svc8uTee3ygb9QBZ6MckwKBgQDC4gGi0+eA3QYO0YS7SsarbYDdOJflym10\nwntQ1b+cKX0Ibvsup7LYYcdq6ApqWOyUMjUYUhpEidFDfoH1yjeCcAq0hGohnplK\noRvfeyiUdKQG5r+K4MhkUlaygRDqjyjTkVEnOFxefwTLdKVO5PEjRWTSG460bHgx\n8qlINRVzEwKBgQCULenKpTSklzJR/NzX8vzFOHxayERAHScGgulbNjQeFpcvBuMC\nmR9KdfcaOdbNhjIABEHUMmqqNMJwTwv/FAuzNqa+bYARX9hOQYhNFwragA59RoPw\neOtChYDYTsfojHpSUMHnJsbLlqkEv6a5R9iGeXOEzrWRvDNDz1c3L5u+ywKBgQC9\nndVlrrSzh1pblLSG30zKg3M8y9HPvdQeJRSDJFaZBS0oxYMUdArpysmTVU69BuS5\nlNhgX5I7WbUI7NBabHTyLz3bQnNZXs1b9cH/AgAL4imupVl9MRUJt6uvZzEkaEKb\nB+tkM8x8DS6HH2mwh8WwQdbFMBb7qgaQ4sCfBzdljQKBgQCbBs9wuOVhUrWEbtxE\nLWX94/2dAkSMlTl5yx5FxiWmRiqpRALrgrMG8PEIZ0YvLHNFWFIvfsta36P99fVN\nb8qjyPUUxcexwqCnPwWieoCQQ5GB4szh2nr9imu5HGljBPU1LM7HigZxyNtIxI9r\nBXvCIVayD3WYErtEB06o8BU5Yg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "spinnaker-storage-account@docker-spinnaker.iam.gserviceaccount.com",
+  "client_id": "109998754146022556692",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spinnaker-storage-account%40docker-spinnaker.iam.gserviceaccount.com"
+}
